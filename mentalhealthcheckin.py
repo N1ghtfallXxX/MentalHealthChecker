@@ -71,4 +71,4 @@ async def manual_checkin(ctx):
         await ctx.send("Check-in channel not found.")
 
 # Run the bot
-bot.run("MTI5NDczNDE3MzczNDU3MjEwNQ.GOM9fX.RBmeN2MR1YI25Dux-Hpzc7MjCE0gfQW19jA9A4")
+bot.run("TOKEN")
